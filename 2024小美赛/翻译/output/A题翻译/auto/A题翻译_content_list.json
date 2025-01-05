@@ -1,0 +1,59 @@
+[
+    {
+        "type": "text",
+        "text": "DEEPL 机器翻译",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2024 第十三届认证杯数学中国数学建模国际赛（小美赛）赛题",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://mcm.tzmcm.cn ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "问题A（MCM）木星：保护者还是威胁者？",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "来自奥尔特云的小行星或彗星撞击地球会对地球产生严重的不利影响。长期以来，人们一直认为木星就像一个巨大的盾牌，大大降低了小天体对地球的撞击率[1]。然而，一些研究人员提出了这样的假设：木星对小行星和彗星轨道的扰动作用增加了这些轨道的不稳定性，从而有可能提高它们在轻微扰动下进入内太阳系的概率[2]。因此，地球受到这些天体撞击的威胁可能会增加。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如果您能建立一个合理的数学模型来研究这个问题并回答以下三个问题，我们将不胜感激。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任务1. 假设威胁仅来自小行星带。目标是评估在小行星带位于木星轨道内侧的分布条件下，木星对地球的保护或威胁作用哪个更大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 假设威胁仅来自奥尔特云，评估木星对地球的保护或威胁作用哪个更大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. 如果木星的质量和轨道可以稍作改变，这是否会导致大量小行星或彗星涌入内太阳系，从而造成晚期重轰炸效应？如果会，这种效应在多大程度上会发生？",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[1] https://xkcd.com/681_large [2] J Horner, B W Jones, Jupiter: friend or foe? An answer, Astronomy &Geophysics, Volume 51, Issue 6, December 2010, Pages 6.166.22 ",
+        "page_idx": 0
+    }
+]
